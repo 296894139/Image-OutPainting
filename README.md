@@ -1,3 +1,4 @@
+# more explanation https://zhuanlan.zhihu.com/p/40902853
 # Keras implementation of Image OutPainting
 
 This is an implementation of [Painting Outside the Box: Image Outpainting](https://cs230.stanford.edu/projects_spring_2018/posters/8265861.pdf) paper from Standford University. 
